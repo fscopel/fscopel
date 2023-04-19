@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fscopel
-- 👀 I’m interested in backend (.NET stack), front end (Flutter / Dart) and Game development (Unity)
+- 👀 I’m interested in backend (.NET stack), and Game development (Unity)
 - 🌱 I’m always interested in researching about technology
 - 💞️ I’m looking to collaborate on anything related to Unity or Dart
 
