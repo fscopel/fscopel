@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @fscopel
-- 👀 I’m interested in backend (.NET stack), and Game development (Unity)
-- 🌱 I’m always interested in researching about technology
-- 💞️ I’m looking to collaborate on anything related to Unity or Dart
+- 👋 Hi, I’m Fabio
+- 👀 I’m interested in full stack (.NET backend and React frontend), and game development (Godot or Unity)
+- 💞️ I’m looking to collaborate on anything related to Godot
 
 <!---
 fscopel/fscopel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
