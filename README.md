@@ -1,4 +1,4 @@
-# Hi, I'm Fabio 👋
+# Fabio Scopel: backend engineer by day, game dev by night
 
 **Senior software engineer in California.** I build backends, web apps, and mobile apps for a living, and games for fun.
 
@@ -44,4 +44,3 @@ I make games under **CoffeeCup Games**. I started with WWII side-scrolling bombe
 [![Website](https://img.shields.io/badge/Website-fscopel.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://fscopel.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fscopel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fscopel)
 [![Email](https://img.shields.io/badge/Email-fabiodev404%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fabiodev404@gmail.com)
-
