@@ -10,7 +10,7 @@ I've been pushing code to GitHub since 2011. These days that mostly means C#, Ty
 
 - **Backend & cloud:** .NET / ASP.NET Core APIs, SQL, and cloud infrastructure on Azure and AWS, managed as code with Terraform.
 - **Web:** React + TypeScript + Vite, styled with Tailwind.
-- **Mobile:** Flutter/Dart, plus Kotlin and React Native when a project needs them.
+- **Mobile:** Flutter/Dart.
 - **Contracting:** I help teams with architecture decisions, code reviews, and getting products from idea to launch. More at [fscopel.github.io](https://fscopel.github.io).
 
 ### 🎮 What I do for fun
